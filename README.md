@@ -2,7 +2,7 @@
 
 https://dessud.github.io/game-codeword/
 
->> THIS IS A WORK IN PROGRESS PROJECT - NOT COMPLETE <<
+-- THIS IS A WORK IN PROGRESS PROJECT - NOT COMPLETE --
 
 **How to play Codeword**
 
