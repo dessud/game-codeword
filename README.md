@@ -2,6 +2,8 @@
 
 https://dessud.github.io/game-codeword/
 
+>> THIS IS A WORK IN PROGRESS PROJECT - NOT COMPLETE <<
+
 **How to play Codeword**
 
 Codeword is like a crossword puzzle, but with a twist — no clues are provided! Instead of letters, each alphabet character is substituted with a unique number consistently used throughout the puzzle.
